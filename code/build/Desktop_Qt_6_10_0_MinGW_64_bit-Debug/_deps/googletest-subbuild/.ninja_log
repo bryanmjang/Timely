@@ -1,0 +1,21 @@
+# ninja log v6
+2	65	7879005821046185	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	5dd7e27b77046dff
+2	65	7879005821046185	C:/Users/bryan/3307-Assignment/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	5dd7e27b77046dff
+65	1357	7879005833974444	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	1399123ff2df57cb
+65	1357	7879005833974444	C:/Users/bryan/3307-Assignment/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	1399123ff2df57cb
+1357	1406	7879005834468535	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	f66a322b643895b5
+1357	1406	7879005834468535	C:/Users/bryan/3307-Assignment/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	f66a322b643895b5
+1407	1456	7879005834965373	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	d85092e7e4d01a61
+1407	1456	7879005834965373	C:/Users/bryan/3307-Assignment/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	d85092e7e4d01a61
+1456	1505	7879005835453496	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	82a516c1da9aca49
+1456	1505	7879005835453496	C:/Users/bryan/3307-Assignment/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	82a516c1da9aca49
+1505	1555	7879005835952780	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	5d5f1c8be2b3d0fc
+1505	1555	7879005835952780	C:/Users/bryan/3307-Assignment/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	5d5f1c8be2b3d0fc
+1555	1604	7879005836447303	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	f1f57401feb1e932
+1555	1604	7879005836447303	C:/Users/bryan/3307-Assignment/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	f1f57401feb1e932
+1604	1653	7879005836932338	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	30da25279df0cf21
+1604	1653	7879005836932338	C:/Users/bryan/3307-Assignment/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	30da25279df0cf21
+1653	1721	7879005837611467	CMakeFiles/googletest-populate-complete	e3084f5adedcb17b
+1653	1721	7879005837611467	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	e3084f5adedcb17b
+1653	1721	7879005837611467	C:/Users/bryan/3307-Assignment/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	e3084f5adedcb17b
+1653	1721	7879005837611467	C:/Users/bryan/3307-Assignment/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	e3084f5adedcb17b

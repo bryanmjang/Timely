@@ -1,0 +1,8 @@
+ValidateTest.NonEmpty_TrimsWhitespace 1 0.0081851
+ValidateTest.Chronological_AllowsNoEndAndEndAfterStart 1 0.0074211
+ValidateTest.Event_FailsWhenEndBeforeStart_AndWhenTitleEmpty 1 0.0069662
+EventManagerTest.Create_ValidEvent_AssignsIdIfMissingAndNotifiesListeners 1 0.008334
+EventManagerTest.Create_InvalidEvent_ThrowsAndDoesNotNotify 1 0.0077248
+EventManagerTest.Update_StartTimeChanges_ReindexesChronologicalOrderAndNotifies 1 0.0080072
+EventManagerTest.SearchByTitle_IsCaseInsensitive_AndEmptyNeedleReturnsAll 1 0.0074026
+---

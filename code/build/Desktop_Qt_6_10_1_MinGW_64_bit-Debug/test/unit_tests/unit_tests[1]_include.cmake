@@ -1,0 +1,5 @@
+if(EXISTS "F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/test/unit_tests/unit_tests[1]_tests.cmake")
+  include("F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/test/unit_tests/unit_tests[1]_tests.cmake")
+else()
+  add_test(unit_tests_NOT_BUILT unit_tests_NOT_BUILT)
+endif()

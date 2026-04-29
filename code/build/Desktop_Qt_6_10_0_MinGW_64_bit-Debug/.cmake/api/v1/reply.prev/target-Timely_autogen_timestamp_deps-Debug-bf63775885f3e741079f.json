@@ -1,0 +1,38 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"app/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "core::@57760688d1f824db5d9c"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "Timely_autogen_timestamp_deps::@5f5a17c01335469806cb",
+	"isGeneratorProvided" : true,
+	"name" : "Timely_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "app",
+		"source" : "app"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

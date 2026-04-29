@@ -1,0 +1,15 @@
+core_autogen/timestamp: \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/core/CMakeLists.txt \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/core/DateRange.cpp \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/core/DateRange.h \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/core/Event.cpp \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/core/Event.h \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/core/EventManager.cpp \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/core/EventManager.h \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/core/IStorage.h \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/core/IdGenerator.h \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/core/JsonStorage.cpp \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/core/JsonStorage.h \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/core/TextQuery.h \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/core/Validate.h \
+	F:/Qt/Tools/CMake_64/bin/cmake.exe

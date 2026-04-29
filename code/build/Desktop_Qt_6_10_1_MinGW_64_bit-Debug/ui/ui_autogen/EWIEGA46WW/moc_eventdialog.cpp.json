@@ -1,0 +1,40 @@
+{
+    "classes": [
+        {
+            "className": "EventDialog",
+            "lineNumber": 19,
+            "object": true,
+            "qualifiedClassName": "EventDialog",
+            "slots": [
+                {
+                    "access": "private",
+                    "arguments": [
+                        {
+                            "name": "checked",
+                            "type": "bool"
+                        }
+                    ],
+                    "index": 0,
+                    "lineNumber": 54,
+                    "name": "onHasEndToggled",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "index": 1,
+                    "lineNumber": 55,
+                    "name": "onAccept",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QDialog"
+                }
+            ]
+        }
+    ],
+    "inputFile": "eventdialog.h",
+    "outputRevision": 69
+}

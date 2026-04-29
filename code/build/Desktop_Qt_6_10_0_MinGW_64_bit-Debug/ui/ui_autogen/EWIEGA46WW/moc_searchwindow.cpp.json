@@ -1,0 +1,70 @@
+{
+    "classes": [
+        {
+            "className": "SearchWindow",
+            "lineNumber": 14,
+            "object": true,
+            "qualifiedClassName": "SearchWindow",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 28,
+                    "name": "queryAll",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "date",
+                            "type": "QDate"
+                        }
+                    ],
+                    "index": 1,
+                    "lineNumber": 29,
+                    "name": "queryDate",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "start",
+                            "type": "QDate"
+                        },
+                        {
+                            "name": "end",
+                            "type": "QDate"
+                        }
+                    ],
+                    "index": 2,
+                    "lineNumber": 30,
+                    "name": "queryRange",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "title",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 3,
+                    "lineNumber": 31,
+                    "name": "queryTitle",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QDialog"
+                }
+            ]
+        }
+    ],
+    "inputFile": "searchwindow.h",
+    "outputRevision": 69
+}

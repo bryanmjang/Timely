@@ -1,0 +1,37 @@
+{
+    "classes": [
+        {
+            "className": "ReminderService",
+            "lineNumber": 24,
+            "object": true,
+            "qualifiedClassName": "ReminderService",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "e",
+                            "type": "Event"
+                        },
+                        {
+                            "name": "minsBefore",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 0,
+                    "lineNumber": 47,
+                    "name": "reminderFired",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "reminderservice.h",
+    "outputRevision": 69
+}

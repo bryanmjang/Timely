@@ -1,0 +1,192 @@
+Start testing: Dec 19 21:20 Eastern Standard Time
+----------------------------------------------------------
+1/7 Testing: ValidateTest.NonEmpty_TrimsWhitespace
+1/7 Test: ValidateTest.NonEmpty_TrimsWhitespace
+Command: "F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/unit_tests.exe" "--gtest_filter=ValidateTest.NonEmpty_TrimsWhitespace" "--gtest_also_run_disabled_tests"
+Directory: F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/test/unit_tests
+"ValidateTest.NonEmpty_TrimsWhitespace" start time: Dec 19 21:20 Eastern Standard Time
+Output:
+----------------------------------------------------------
+Running main() from F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ValidateTest.NonEmpty_TrimsWhitespace
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ValidateTest
+[ RUN      ] ValidateTest.NonEmpty_TrimsWhitespace
+[       OK ] ValidateTest.NonEmpty_TrimsWhitespace (0 ms)
+[----------] 1 test from ValidateTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ValidateTest.NonEmpty_TrimsWhitespace" end time: Dec 19 21:20 Eastern Standard Time
+"ValidateTest.NonEmpty_TrimsWhitespace" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/7 Testing: ValidateTest.Chronological_AllowsNoEndAndEndAfterStart
+2/7 Test: ValidateTest.Chronological_AllowsNoEndAndEndAfterStart
+Command: "F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/unit_tests.exe" "--gtest_filter=ValidateTest.Chronological_AllowsNoEndAndEndAfterStart" "--gtest_also_run_disabled_tests"
+Directory: F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/test/unit_tests
+"ValidateTest.Chronological_AllowsNoEndAndEndAfterStart" start time: Dec 19 21:20 Eastern Standard Time
+Output:
+----------------------------------------------------------
+Running main() from F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ValidateTest.Chronological_AllowsNoEndAndEndAfterStart
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ValidateTest
+[ RUN      ] ValidateTest.Chronological_AllowsNoEndAndEndAfterStart
+[       OK ] ValidateTest.Chronological_AllowsNoEndAndEndAfterStart (0 ms)
+[----------] 1 test from ValidateTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ValidateTest.Chronological_AllowsNoEndAndEndAfterStart" end time: Dec 19 21:20 Eastern Standard Time
+"ValidateTest.Chronological_AllowsNoEndAndEndAfterStart" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/7 Testing: ValidateTest.Event_FailsWhenEndBeforeStart_AndWhenTitleEmpty
+3/7 Test: ValidateTest.Event_FailsWhenEndBeforeStart_AndWhenTitleEmpty
+Command: "F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/unit_tests.exe" "--gtest_filter=ValidateTest.Event_FailsWhenEndBeforeStart_AndWhenTitleEmpty" "--gtest_also_run_disabled_tests"
+Directory: F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/test/unit_tests
+"ValidateTest.Event_FailsWhenEndBeforeStart_AndWhenTitleEmpty" start time: Dec 19 21:20 Eastern Standard Time
+Output:
+----------------------------------------------------------
+Running main() from F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ValidateTest.Event_FailsWhenEndBeforeStart_AndWhenTitleEmpty
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ValidateTest
+[ RUN      ] ValidateTest.Event_FailsWhenEndBeforeStart_AndWhenTitleEmpty
+[       OK ] ValidateTest.Event_FailsWhenEndBeforeStart_AndWhenTitleEmpty (0 ms)
+[----------] 1 test from ValidateTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ValidateTest.Event_FailsWhenEndBeforeStart_AndWhenTitleEmpty" end time: Dec 19 21:20 Eastern Standard Time
+"ValidateTest.Event_FailsWhenEndBeforeStart_AndWhenTitleEmpty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/7 Testing: EventManagerTest.Create_ValidEvent_AssignsIdIfMissingAndNotifiesListeners
+4/7 Test: EventManagerTest.Create_ValidEvent_AssignsIdIfMissingAndNotifiesListeners
+Command: "F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/unit_tests.exe" "--gtest_filter=EventManagerTest.Create_ValidEvent_AssignsIdIfMissingAndNotifiesListeners" "--gtest_also_run_disabled_tests"
+Directory: F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/test/unit_tests
+"EventManagerTest.Create_ValidEvent_AssignsIdIfMissingAndNotifiesListeners" start time: Dec 19 21:20 Eastern Standard Time
+Output:
+----------------------------------------------------------
+Running main() from F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EventManagerTest.Create_ValidEvent_AssignsIdIfMissingAndNotifiesListeners
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EventManagerTest
+[ RUN      ] EventManagerTest.Create_ValidEvent_AssignsIdIfMissingAndNotifiesListeners
+[       OK ] EventManagerTest.Create_ValidEvent_AssignsIdIfMissingAndNotifiesListeners (0 ms)
+[----------] 1 test from EventManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EventManagerTest.Create_ValidEvent_AssignsIdIfMissingAndNotifiesListeners" end time: Dec 19 21:20 Eastern Standard Time
+"EventManagerTest.Create_ValidEvent_AssignsIdIfMissingAndNotifiesListeners" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/7 Testing: EventManagerTest.Create_InvalidEvent_ThrowsAndDoesNotNotify
+5/7 Test: EventManagerTest.Create_InvalidEvent_ThrowsAndDoesNotNotify
+Command: "F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/unit_tests.exe" "--gtest_filter=EventManagerTest.Create_InvalidEvent_ThrowsAndDoesNotNotify" "--gtest_also_run_disabled_tests"
+Directory: F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/test/unit_tests
+"EventManagerTest.Create_InvalidEvent_ThrowsAndDoesNotNotify" start time: Dec 19 21:20 Eastern Standard Time
+Output:
+----------------------------------------------------------
+Running main() from F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EventManagerTest.Create_InvalidEvent_ThrowsAndDoesNotNotify
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EventManagerTest
+[ RUN      ] EventManagerTest.Create_InvalidEvent_ThrowsAndDoesNotNotify
+[       OK ] EventManagerTest.Create_InvalidEvent_ThrowsAndDoesNotNotify (0 ms)
+[----------] 1 test from EventManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EventManagerTest.Create_InvalidEvent_ThrowsAndDoesNotNotify" end time: Dec 19 21:20 Eastern Standard Time
+"EventManagerTest.Create_InvalidEvent_ThrowsAndDoesNotNotify" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/7 Testing: EventManagerTest.Update_StartTimeChanges_ReindexesChronologicalOrderAndNotifies
+6/7 Test: EventManagerTest.Update_StartTimeChanges_ReindexesChronologicalOrderAndNotifies
+Command: "F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/unit_tests.exe" "--gtest_filter=EventManagerTest.Update_StartTimeChanges_ReindexesChronologicalOrderAndNotifies" "--gtest_also_run_disabled_tests"
+Directory: F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/test/unit_tests
+"EventManagerTest.Update_StartTimeChanges_ReindexesChronologicalOrderAndNotifies" start time: Dec 19 21:20 Eastern Standard Time
+Output:
+----------------------------------------------------------
+Running main() from F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EventManagerTest.Update_StartTimeChanges_ReindexesChronologicalOrderAndNotifies
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EventManagerTest
+[ RUN      ] EventManagerTest.Update_StartTimeChanges_ReindexesChronologicalOrderAndNotifies
+[       OK ] EventManagerTest.Update_StartTimeChanges_ReindexesChronologicalOrderAndNotifies (0 ms)
+[----------] 1 test from EventManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EventManagerTest.Update_StartTimeChanges_ReindexesChronologicalOrderAndNotifies" end time: Dec 19 21:20 Eastern Standard Time
+"EventManagerTest.Update_StartTimeChanges_ReindexesChronologicalOrderAndNotifies" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/7 Testing: EventManagerTest.SearchByTitle_IsCaseInsensitive_AndEmptyNeedleReturnsAll
+7/7 Test: EventManagerTest.SearchByTitle_IsCaseInsensitive_AndEmptyNeedleReturnsAll
+Command: "F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/unit_tests.exe" "--gtest_filter=EventManagerTest.SearchByTitle_IsCaseInsensitive_AndEmptyNeedleReturnsAll" "--gtest_also_run_disabled_tests"
+Directory: F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/test/unit_tests
+"EventManagerTest.SearchByTitle_IsCaseInsensitive_AndEmptyNeedleReturnsAll" start time: Dec 19 21:20 Eastern Standard Time
+Output:
+----------------------------------------------------------
+Running main() from F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EventManagerTest.SearchByTitle_IsCaseInsensitive_AndEmptyNeedleReturnsAll
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EventManagerTest
+[ RUN      ] EventManagerTest.SearchByTitle_IsCaseInsensitive_AndEmptyNeedleReturnsAll
+[       OK ] EventManagerTest.SearchByTitle_IsCaseInsensitive_AndEmptyNeedleReturnsAll (0 ms)
+[----------] 1 test from EventManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EventManagerTest.SearchByTitle_IsCaseInsensitive_AndEmptyNeedleReturnsAll" end time: Dec 19 21:20 Eastern Standard Time
+"EventManagerTest.SearchByTitle_IsCaseInsensitive_AndEmptyNeedleReturnsAll" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 19 21:20 Eastern Standard Time

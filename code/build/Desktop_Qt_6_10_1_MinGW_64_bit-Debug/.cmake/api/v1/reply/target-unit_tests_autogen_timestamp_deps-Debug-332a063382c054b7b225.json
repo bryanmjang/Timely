@@ -1,0 +1,46 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"test/unit_tests/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "core::@57760688d1f824db5d9c"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "gmock::@0f7bb11d64f3678238c7"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "gtest_main::@1ea2dfc0605fe3ab2a3f"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "unit_tests_autogen_timestamp_deps::@f8d01a5882d5959a738d",
+	"isGeneratorProvided" : true,
+	"name" : "unit_tests_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "test/unit_tests",
+		"source" : "test/unit_tests"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

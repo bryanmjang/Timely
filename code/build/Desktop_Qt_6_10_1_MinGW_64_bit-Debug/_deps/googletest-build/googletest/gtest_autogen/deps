@@ -1,0 +1,16 @@
+gtest_autogen/timestamp: \
+	F:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in \
+	F:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakePackageConfigHelpers.cmake \
+	F:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake \
+	F:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageMessage.cmake \
+	F:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPython/Support.cmake \
+	F:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPython3.cmake \
+	F:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/WriteBasicConfigVersionFile.cmake \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/_deps/googletest-src/googletest/CMakeLists.txt \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/_deps/googletest-src/googletest/cmake/Config.cmake.in \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/_deps/googletest-src/googletest/cmake/gtest.pc.in \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/_deps/googletest-src/googletest/cmake/gtest_main.pc.in \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/_deps/googletest-src/googletest/cmake/internal_utils.cmake \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/_deps/googletest-src/googletest/src/gtest-all.cc \
+	F:/Qt/Tools/CMake_64/bin/cmake.exe

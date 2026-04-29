@@ -1,0 +1,9 @@
+unit_tests_autogen/timestamp: \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/ExternalProject/shared_internal_commands.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FetchContent.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FetchContent/CMakeLists.cmake.in \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GoogleTest.cmake \
+	C:/Users/bryan/3307-Assignment/oop-assignment-2-bryan-jang-daniel-yuan/code/test/unit_tests/CMakeLists.txt \
+	C:/Users/bryan/3307-Assignment/oop-assignment-2-bryan-jang-daniel-yuan/code/test/unit_tests/tst_event_manager.cpp \
+	C:/Users/bryan/3307-Assignment/oop-assignment-2-bryan-jang-daniel-yuan/code/test/unit_tests/tst_validate.cpp \
+	C:/Qt/Tools/CMake_64/bin/cmake.exe

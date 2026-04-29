@@ -1,0 +1,224 @@
+[
+    {
+        "classes": [
+            {
+                "className": "EventDialog",
+                "lineNumber": 19,
+                "object": true,
+                "qualifiedClassName": "EventDialog",
+                "slots": [
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "checked",
+                                "type": "bool"
+                            }
+                        ],
+                        "index": 0,
+                        "lineNumber": 54,
+                        "name": "onHasEndToggled",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "index": 1,
+                        "lineNumber": 55,
+                        "name": "onAccept",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QDialog"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "eventdialog.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "MainWindow",
+                "lineNumber": 23,
+                "object": true,
+                "qualifiedClassName": "MainWindow",
+                "slots": [
+                    {
+                        "access": "private",
+                        "index": 0,
+                        "lineNumber": 54,
+                        "name": "onNew",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "index": 1,
+                        "lineNumber": 55,
+                        "name": "onEdit",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "index": 2,
+                        "lineNumber": 56,
+                        "name": "onDelete",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "index": 3,
+                        "lineNumber": 57,
+                        "name": "onToday",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "index": 4,
+                        "lineNumber": 58,
+                        "name": "onCalendarDateChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "index",
+                                "type": "QModelIndex"
+                            }
+                        ],
+                        "index": 5,
+                        "lineNumber": 59,
+                        "name": "onEventClicked",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "private",
+                        "index": 6,
+                        "lineNumber": 60,
+                        "name": "onSearch",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QMainWindow"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "mainwindow.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "ReminderService",
+                "lineNumber": 24,
+                "object": true,
+                "qualifiedClassName": "ReminderService",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "e",
+                                "type": "Event"
+                            },
+                            {
+                                "name": "minsBefore",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 0,
+                        "lineNumber": 47,
+                        "name": "reminderFired",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "reminderservice.h",
+        "outputRevision": 69
+    },
+    {
+        "classes": [
+            {
+                "className": "SearchWindow",
+                "lineNumber": 14,
+                "object": true,
+                "qualifiedClassName": "SearchWindow",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "lineNumber": 28,
+                        "name": "queryAll",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "date",
+                                "type": "QDate"
+                            }
+                        ],
+                        "index": 1,
+                        "lineNumber": 29,
+                        "name": "queryDate",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "start",
+                                "type": "QDate"
+                            },
+                            {
+                                "name": "end",
+                                "type": "QDate"
+                            }
+                        ],
+                        "index": 2,
+                        "lineNumber": 30,
+                        "name": "queryRange",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "title",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 3,
+                        "lineNumber": 31,
+                        "name": "queryTitle",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QDialog"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "searchwindow.h",
+        "outputRevision": 69
+    }
+]

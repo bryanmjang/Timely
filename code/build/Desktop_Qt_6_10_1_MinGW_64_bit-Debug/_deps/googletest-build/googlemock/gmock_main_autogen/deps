@@ -1,0 +1,7 @@
+gmock_main_autogen/timestamp: \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/_deps/googletest-src/googlemock/CMakeLists.txt \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/_deps/googletest-src/googlemock/cmake/gmock.pc.in \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/_deps/googletest-src/googlemock/cmake/gmock_main.pc.in \
+	F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/_deps/googletest-src/googlemock/src/gmock_main.cc \
+	F:/Qt/Tools/CMake_64/bin/cmake.exe

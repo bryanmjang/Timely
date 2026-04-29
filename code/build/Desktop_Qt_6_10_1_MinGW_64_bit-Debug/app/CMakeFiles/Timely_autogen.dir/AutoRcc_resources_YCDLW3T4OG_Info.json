@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/app/Timely_autogen",
+	"CMAKE_BINARY_DIR" : "F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/app",
+	"CMAKE_CURRENT_SOURCE_DIR" : "F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/app",
+	"CMAKE_SOURCE_DIR" : "F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/app/Timely_autogen/include",
+	"INPUTS" : [ "F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/icons/app.png" ],
+	"LOCK_FILE" : "F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/app/CMakeFiles/Timely_autogen.dir/AutoRcc_resources_YCDLW3T4OG_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "YCDLW3T4OG",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "F:/Qt/6.10.1/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/app/CMakeFiles/Timely_autogen.dir/AutoRcc_resources_YCDLW3T4OG_Used.txt",
+	"SOURCE" : "F:/git/oop-assignment-2-bryan-jang-daniel-yuan/code/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
